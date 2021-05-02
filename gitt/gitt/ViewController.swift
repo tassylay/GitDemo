@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func alert(_ sender: UIButton) {
+        print("show")
+    }
+    
+    @IBAction func sheet(_ sender: Any) {
+    }
 }
 
