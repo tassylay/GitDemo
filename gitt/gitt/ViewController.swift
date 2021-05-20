@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     }
     
     @IBAction func sheet(_ sender: Any) {
+        print("hekoooo")
     }
+    
 }
 
