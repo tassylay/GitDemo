@@ -24,8 +24,13 @@ class ViewController: UIViewController {
     }
     enum MyChoice: String{
         case film = "Iron man"
+<<<<<<< HEAD
         case film3 = "New"
     }
 
+=======
+        case film2 = "Spider"
+    }
+>>>>>>> feature/AddCacao
 }
 
