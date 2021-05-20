@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     
     @IBAction func sheet(_ sender: Any) {
     }
+    enum MyChoice: String{
+        case film = "Iron man"
+        case film2 = "Spider"
+    }
 }
 
